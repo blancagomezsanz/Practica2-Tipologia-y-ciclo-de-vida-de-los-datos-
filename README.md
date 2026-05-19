@@ -1,8 +1,8 @@
 # Práctica 2 - Análisis y modelización de datos socioeconómicos provinciales
 
 ## Integrantes del grupo
-- Carlos Gómez Domínguez
 - Blanca Gómez Sanz
+- Carlos Gómez Domínguez
 
 ## Descripción del proyecto
 Este repositorio contiene el desarrollo de la **Práctica 2** de la asignatura *Tipología y ciclo de vida de los datos*.  
