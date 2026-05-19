@@ -20,9 +20,7 @@ Los datos han sido obtenidos del Instituto Nacional de Estadística (INE):
 
 - `README.md`: descripción general del proyecto.
 - `requirements.txt`: librerías necesarias para ejecutar el código.
-- `source/`
-  - `data_cleaning.ipynb`: limpieza, transformación e integración de datasets del INE.
-  - `analysis.ipynb`: análisis exploratorio, modelización y pruebas estadísticas.
+- `practica2_tipologia.ipynb`: Data cleanning, análisis exploratorio, modelización y pruebas estadísticas.
 - `dataset/`
   - `*.csv/`: datasets originales descargados del INE.
 
